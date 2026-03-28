@@ -152,6 +152,8 @@ The order of input features must match the training data format to ensure accura
 * Add explainability (SHAP / LIME)
 
 ---
+## App Preview
+<img width="953" height="902" alt="{251B6478-F795-4C7F-8A39-F3BE650AC407}" src="https://github.com/user-attachments/assets/96926872-3d22-4cc9-9851-ca4ea6bba7a9" />
 
 ##  Author
 
