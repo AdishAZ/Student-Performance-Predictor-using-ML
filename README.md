@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ### 3. Train the Model (IMPORTANT)
 
 ```bash
-python model/train.py
+python Model/train.py
 ```
 
 ### 4. Run the App
